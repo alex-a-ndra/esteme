@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "esteme"
+  "defaultProject": "esteme",
+  "cli": {
+    "analytics": "2d9ff331-cbc7-49d2-8262-dea7ff9f90a7"
+  }
 }
